@@ -113,7 +113,7 @@ AutoBrain-ML is an intelligent AutoML system that automatically builds, trains, 
 - Parameter tuning strategies
 - Optimization result analysis
 
-### Vadakan - Model Evaluation & Export
+### Sanjith - Model Evaluation & Export
 - Performance metrics calculation
 - Model comparison framework
 - Model export functionality (.pkl/.h5)
@@ -198,7 +198,7 @@ Each team member has a dedicated work file in the `work_assignments/` directory:
 - `NESAN_WORK.md` - ML Models tasks
 - `BHARATH_WORK.md` - Neural Network tasks
 - `ARUN_WORK.md` - Optimization tasks
-- `VADAKAN_WORK.md` - Evaluation & Export tasks
+- `Sanjith_WORK.md` - Evaluation & Export tasks
 
 ## 🤝 Contributing
 
