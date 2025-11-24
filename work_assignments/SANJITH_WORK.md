@@ -1,7 +1,7 @@
-# VADAKAN - Model Evaluation & Reporting Specialist
+# Sanjith - Model Evaluation & Reporting Specialist
 
 ## 👤 Team Member Information
-**Name:** Vadakan  
+**Name:** Sanjith  
 **Role:** Model Evaluation, Validation & Reporting Lead  
 **Primary Focus:** Comprehensive model assessment and automated reporting
 
@@ -106,4 +106,4 @@
 ---
 
 **Last Updated:** [Date]  
-**Contact:** Vadakan
+**Contact:** Sanjith
