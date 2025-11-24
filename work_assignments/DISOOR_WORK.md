@@ -1,4 +1,4 @@
-# DISOOR - Work Assignment
+# BHARATH - Work Assignment
 **Role:** Project Lead & System Integration
 
 ## 🎯 Primary Responsibilities
@@ -88,4 +88,4 @@ Waiting on:
 
 ---
 **Last Updated:** [Add date when you update]  
-**Contact:** Disoor (Project Lead)
+**Contact:** Bharath (Project Lead)
