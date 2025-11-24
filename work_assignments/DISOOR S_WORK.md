@@ -1,7 +1,7 @@
-# BHARATH - Model Training & Optimization Specialist
+# DISOOR - Model Training & Optimization Specialist
 
 ## 👤 Team Member Information
-**Name:** Bharath  
+**Name:** Disoor  
 **Role:** Model Training Pipeline & Optimization Lead  
 **Primary Focus:** Efficient training workflows and model convergence optimization
 
@@ -78,7 +78,7 @@
 
 ## 🔗 Dependencies
 - **Depends on:** Nesan's model selection, Yogi's preprocessing
-- **Required by:** Bharath's trained models → Arun (Hyperparameter Tuning), Vadakan (Evaluation)
+- **Required by:** Disoor's trained models → Arun (Hyperparameter Tuning), Vadakan (Evaluation)
 
 ---
 
@@ -101,4 +101,4 @@
 ---
 
 **Last Updated:** [Date]  
-**Contact:** Bharath
+**Contact:** Disoor
